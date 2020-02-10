@@ -1,0 +1,10 @@
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\b\ConsoleApp1\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\b\ConsoleApp1\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\b\ConsoleApp1\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\b\ConsoleApp1\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\i\ConsoleApp1\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\i\ConsoleApp1\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\i\ConsoleApp1\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\i\ConsoleApp1\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\i\ConsoleApp1\Debug\netcoreapp2.1\ConsoleApp1.csproj.CopyComplete
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\i\ConsoleApp1\Debug\netcoreapp2.1\ConsoleApp1.dll

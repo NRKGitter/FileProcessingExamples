@@ -1,0 +1,13 @@
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.deps.json
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.json
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.dev.json
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.dll
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\i\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.csprojAssemblyReference.cache
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\i\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\i\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfoInputs.cache
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\i\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfo.cs
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\i\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CopyComplete
+C:\2020\ConsoleCoreApp\Solution2\.vs\Solution2\lut\0\i\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.dll
